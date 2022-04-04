@@ -1,0 +1,15 @@
+
+app_name: News api
+github_url: will come
+
+storage_connection_string: EXAMPLE
+news_api_key: 49fa601853cd4c1a96d4451cfa91201a
+news_api_url: https://newsapi.org/v2/top-headlines
+
+debug: true # if true, Jinja2 templates auto reloading is enabled
+
+show_error_details: true
+
+# site information
+site:
+    copyright: News API # change with your own copyright notice

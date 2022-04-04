@@ -1,0 +1,11 @@
+blacksheep==1.2.5
+pytest==7.1.1
+pytest-asyncio==0.18.3
+pytest-cov==3.0.0
+pytest-httpx==0.20.0
+pytest-mock==3.7.0
+httpx==0.22.0
+asgiref==3.5.0
+uvicorn==0.17.6
+essentials==1.1.5
+essentials-configuration==0.0.2
